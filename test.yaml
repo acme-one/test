@@ -1,0 +1,26 @@
+mars: 
+ id: mars
+ title: Mars
+ publications: 
+  - 
+   id: all_about_mars
+   title: "All About Mars"
+  - 
+   id: more_about_mars
+   title: "More About Mars"
+  - 
+   id: even_more_about_mars
+   title: "Even More About Mars"
+venus: 
+ id: venus
+ title: Venus
+ publications: 
+  - 
+   id: all_about_venus
+   title: "All About Venus"
+  - 
+   id: more_about_venus
+   title: "More About Venus"
+  - 
+   id: more_about_venus
+   title: "Even More About Venus"
